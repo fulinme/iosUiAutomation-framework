@@ -6,4 +6,8 @@ demo：
 http://youtu.be/smyv220k3og
 
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/smyv220k3og" frameborder="0" allowfullscreen></iframe>
+<a href="https://www.youtube.com/embed/smyv220k3og
+" target="_blank"><img src="http://img.youtube.com/vi/smyv220k3og/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/smyv220k3og/0.jpg)](http://youtu.be/smyv220k3og)
